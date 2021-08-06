@@ -3,3 +3,5 @@
 	* Practicing how to push files from my local machine to git-hub through Git
 	* Practicng how to coviniently move around a terminal also.
 	* A new directory called "0x02-git" was created
+        * Deleted the js directory
+	* Replaced the text in bash/alx
